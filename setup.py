@@ -4,7 +4,7 @@ with open("README.md", "r") as arq:
     readme = arq.read()
 
 setup(name='Social-LIWC',
-    version='0.0.1',
+    version='0.0.2',
     license='MIT License',
     long_description=readme,
     long_description_content_type="text/markdown",
